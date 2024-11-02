@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👽 ​​Estudante de Big data no Agronegócio <br>​🤖 Games<br>👾 Front-end
+👽 Big data no Agronegócio <br>​🤖 Games<br>👾 Front-end<br>💼Coopercitrus 
 
 
 ## 🌐 Sociais:
