@@ -1,5 +1,5 @@
 # 💫 About Me:
-👽​​Estudante de Big data no Agronegócio <br>​🤖​Página de Futebol<br>👾​​Curso de Operador de computador 
+👽​​Estudante de Big data no Agronegócio <br>​🤖Front-end<br>👾​​Curso de Operador de computador 
 
 
 ## 🌐 Socials:
