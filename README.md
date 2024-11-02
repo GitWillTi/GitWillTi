@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👽 ​​Estudante de Big data no Agronegócio <br>​🤖 Coopercitrus<br>👾 ​​Curso de Operador de computador 
+👽 ​​Estudante de Big data no Agronegócio <br>​🤖 Trabalho: Coopercitrus<br>👾 ​​Curso:Operador de computador 
 
 
 ## 🌐 Sociais:
