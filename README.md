@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+Sobre Mim:
 👽 Big data no Agronegócio<br>​🤖 Games<br>👾 Front-end<br>💼 Coopercitrus 
 
 
