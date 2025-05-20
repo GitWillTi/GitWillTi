@@ -1,5 +1,5 @@
 # Sobre Mim:
-👽 Big data no Agronegócio<br>​🤖 Games<br>👾 Front-end<br>💼
+👽 Big data<br>​🤖 Games<br>👾 Front-end<br>💼
 
 
 ## 🌐 Sociais:
