@@ -1,5 +1,5 @@
 # Sobre Mim:
-👽 Big data<br>​🤖 Games<br>👾 Front-end<br>💼Ramavi
+👽 Big data<br>​🤖 Games<br>👾Front-end<br>💼Ramavi
 
 
 ## 🌐 Sociais:
