@@ -1,4 +1,9 @@
-# Sobre Mim:
+# Sobre Mim: 
+- Sou estudante na área de Big Data, com experiência prática nos setores Varejo e farmacêutico, onde tive a oportunidade de entender de perto os desafios operacionais e as demandas por soluções tecnológicas eficientes.
+
+Tenho interesse em transformar dados em soluções inteligentes que contribuam com inovação e resultados reais para os negócios. Ao longo da minha formação, venho desenvolvendo habilidades técnicas em Java, Python, MySQL, PostgreSQL, CSS, XAMPP, Arduino IDE, Power BI, Grafana, GitHub e integração de sistemas via APIs — ferramentas que uso para analisar dados, construir soluções e conectar tecnologias.
+
+Sou curioso, proativo e apaixonado por tecnologia — estou sempre aprendendo e buscando novas formas de aplicar meu conhecimento na prática. Atualmente, estou em busca de oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com análise de dados, desenvolvimento de sistemas e integração de soluções.
 👽 Big data<br>​🤖 Games<br>👾Front-end<br>🔒Java<br>🐍Python<br>🎲Mysql<br>🍀Grafana<br>😀<br>CSS📵Arduino<br>❤️GitHub<br>💻 PowerBI<br>
 
 ## 🌐 Sociais:
