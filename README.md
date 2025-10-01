@@ -5,8 +5,16 @@ Tenho interesse em transformar dados em soluções inteligentes que contribuam c
 
 Sou curioso, proativo e apaixonado por tecnologia — estou sempre aprendendo e buscando novas formas de aplicar meu conhecimento na prática. Atualmente, estou em busca de oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com análise de dados, desenvolvimento de sistemas e integração de soluções.
 
+JavaScript 💻        | 😏😏😏😏😏
+Front-End 🎨         | 😎😎😎😎
+Java ☕               | 😤😤😤😤😤😤
+Python 🐍            | 🧠🧠🧠🧠🧠
+MySQL 🗄️            | 😌😌😌
+CSS 🎨               | 😠😠😠😠
+GitHub 🐙            | 🧔‍♂️🧔‍♂️🧔‍♂️
+Power BI 📊         | 🤓🤓🤓
+SQL 💾               | 😐😐😐😐
 
-👽 Big data<br>​🤖 Games<br>👾Front-end<br>🔒Java<br>🐍Python<br>🎲Mysql<br>🍀Grafana<br>😀<br>CSS📵Arduino<br>❤️GitHub<br>💻 PowerBI<br>
 
 ## 🌐 Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/GoatWillian/?locale=pt_BR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chelseadeprefc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/willian-alves-71257318b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Willgoatj/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ChelseadaDepre) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@will8183) 
