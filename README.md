@@ -58,66 +58,75 @@ Acredito em código limpo, boas práticas, automação, dados e evolução const
 ---
 
 <div align="center">
+  <img src="https://i.gifer.com/origin/5b/5b6a495c1dc93e78a316d36fb1c766bd_w200.gif" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+# 🧠 Cursos & Certificações – MATRIX
 
 <table>
 <tr>
 <td>
 
-### 🎓 Fundação Bradesco  
-🚀 *AI-900 – Fundamentos de IA no Azure*
+### 🟩 Fundação Bradesco  
+`> AI-900 – Fundamentos de IA no Azure`
 
 </td>
 </tr>
-<tr><td><hr></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ItzDiamondYT/ItzDiamondYT/main/assets/green-divider.gif" width="100%"></td></tr>
 
 <tr>
 <td>
 
-### 🎓 Santander Open Academy  
-🚀 *Introdução à Ciência de Dados*
+### 🟩 Santander Open Academy  
+`> Introdução à Ciência de Dados`
 
 </td>
 </tr>
-<tr><td><hr></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ItzDiamondYT/ItzDiamondYT/main/assets/green-divider.gif" width="100%"></td></tr>
 
 <tr>
 <td>
 
-### 🎓 Enap  
-🚀 *Análise de Dados em Linguagem R*
+### 🟩 Enap  
+`> Análise de Dados em Linguagem R`
 
 </td>
 </tr>
-<tr><td><hr></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ItzDiamondYT/ItzDiamondYT/main/assets/green-divider.gif" width="100%"></td></tr>
 
 <tr>
 <td>
 
-### 🎓 CIEE  
-🚀 *Computação em Nuvem*
+### 🟩 CIEE  
+`> Computação em Nuvem`
 
 </td>
 </tr>
-<tr><td><hr></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ItzDiamondYT/ItzDiamondYT/main/assets/green-divider.gif" width="100%"></td></tr>
 
 <tr>
 <td>
 
-### 🎓 Fundação Getulio Vargas (FGV)  
-🚀 *Introdução ao Git e GitHub*
+### 🟩 Fundação Getulio Vargas (FGV)  
+`> Introdução ao Git e GitHub`
 
 </td>
 </tr>
-<tr><td><hr></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ItzDiamondYT/ItzDiamondYT/main/assets/green-divider.gif" width="100%"></td></tr>
 
 <tr>
 <td>
 
-### 🎓 Prepara Cursos Profissionalizantes  
-🚀 *Pacote Office (Excel, PowerPoint, Word)*
+### 🟩 Prepara Cursos Profissionalizantes  
+`> Pacote Office (Excel, PowerPoint, Word)`
 
 </td>
 </tr>
+
 </table>
 
 </div>
