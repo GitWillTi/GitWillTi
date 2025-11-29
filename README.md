@@ -107,41 +107,25 @@ Aqui estão alguns conhecimentos que expandiram minha jornada:
 # 📊 **Minhas estatísticas no GitHub**
 <div align="center">
 
-<!-- Camada 1 (sombra holográfica) -->
+<!-- Painel Principal -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-  style="filter: blur(6px) brightness(2) saturate(2) drop-shadow(0px 0px 20px #00eaff); position: absolute; transform: translateY(12px) scale(1.04); opacity: 0.5;"
+  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&hide_border=true&border_radius=20&bg_color=000000&title_color=00eaff&text_color=9be7ff&icon_color=00eaff"
+  height="165"
 />
 
-<!-- Camada 2 (painel principal 3D) -->
+<!-- Linguagens Mais Usadas -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-  style="position: relative; z-index: 10;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&hide_border=true&border_radius=20&bg_color=000000&title_color=00eaff&text_color=9be7ff"
+  height="165"
 />
 
-<br><br>
-
-<!-- Holograma 3D de linguagens -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
-  style="filter: drop-shadow(0px 0px 15px #00eaff) brightness(1.6) saturate(1.5); transform: perspective(400px) rotateX(8deg);"
-/>
-
-<br><br>
-
-<!-- Streak holográfico -->
+<!-- Streak (dias seguidos) -->
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=GitWillTi&theme=tokyonight&hide_border=true"
-  height="170"
-  style="filter: drop-shadow(0px 0px 20px #00eaff) brightness(1.5) saturate(1.5); transform: perspective(500px) rotateX(6deg);"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&hide_border=true&background=000000&ring=00eaff&currStreakLabel=00eaff&sideNums=9be7ff&sideLabels=00eaff&dates=007a99&fire=00eaff"
+  height="165"
 />
 
 </div>
-
-
 
 ---
 
