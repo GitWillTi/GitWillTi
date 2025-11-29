@@ -1,61 +1,106 @@
-<div align="center">
+<!-- ███████████████  TECH COMPANY PORTFOLIO PRO // CORPORATE TECH MODE  ███████████████ -->
 
-# 👋 Olá! Eu sou o Will (GitWillTi)!
-## 🎓 Estudante de Big Data e Desenvolvedor em Evolução 📊
+<h1 align="center">
+  <span style="font-size: 3rem; color:#0a84ff; font-weight:700;">GitWillTi</span>
+  <br>
+  <span style="color:#4b5563; font-size:1.3rem;">Software & Data Engineering • Big Data • AI Enthusiast</span>
+</h1>
 
 <p align="center">
-  <a href="[LINK DO SEU LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[LINK DO SEU SITE OU PORTFÓLIO - OPCIONAL]"><img src="https://img.shields.io/badge/Portfólio-FF7700?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:[SEU MELHOR EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://i.imgur.com/hf1rGBj.gif" width="750">
+</p>
+
+---
+
+<div align="center">
+
+### 🌐 Conecte-se
+
+<p>
+  <a href="[SEU LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="[SEU SITE]"><img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=0A84FF"/></a>
+  <a href="mailto:[SEU EMAIL]"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=0A84FF"/></a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+## 💼 **Sobre Mim**
 
-Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meus conhecimentos de desenvolvimento e análise para extrair valor de grandes volumes de dados. Minha jornada combina o poder do **Python/R** na ciência de dados com a estrutura do **Java/JavaScript** no desenvolvimento de sistemas.
+Profissional em formação focado em **engenharia de dados**, **desenvolvimento de software** e **soluções inteligentes orientadas à IA**.  
+Meu trabalho se baseia em três pilares corporativos:
+
+- **Simplicidade** — Código limpo e arquitetura eficiente  
+- **Escalabilidade** — Sistemas preparados para crescer  
+- **Inteligência** — Automação e análise orientada por dados  
+
+Atuo desde aplicações backend até pipelines completos de dados e integrações com cloud.
 
 ---
 
-<h2 align="center">🛠️ Minha Stack de Tecnologia</h2>
+<h2 align="center">⚙️ Tech Stack — Enterprise Tier</h2>
 
 <div align="center">
-  
-  | Categoria | Tecnologias Principais |
-  | :--- | :--- |
-  | **Linguagens Base** | `Java`, `Python`, `JavaScript`, `SQL` |
-  | **Análise de Dados** | `Linguagem R`, `Power BI` |
-  | **Web/Frontend** | `Front End`, `CSS` |
-  | **Banco de Dados** | `MySQL` |
-  | **DevOps & Tools** | `GitHub`, `Git`, `Computação em Nuvem` |
 
-  <br>
+| Categoria | Tecnologias |
+|----------|-------------|
+| **Linguagens** | Python • Java • JavaScript • TypeScript • SQL • R |
+| **Frontend** | HTML • CSS • React • Next.js • TailwindCSS |
+| **Backend & APIs** | Node.js • Express • Django • FastAPI • Spring |
+| **Data & Cloud** | MySQL • PostgreSQL • MongoDB • Firebase • AWS • Azure • GCP |
+| **AI / Data Science** | Pandas • NumPy • scikit-learn • TensorFlow |
+| **DevOps** | Git • GitHub • Docker • Linux • CI/CD |
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,r,powerbi,github,vscode" />
-  </p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,express,spring,django,fastapi,mysql,postgres,mongodb,firebase,aws,azure,gcp,tensorflow,sklearn,git,github,docker,linux,vscode" />
 
 </div>
 
 ---
 
-<h2 align="center">📚 Certificações & Conhecimento</h2>
+<h2 align="center">🎖️ Certificações Profissionais</h2>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/AI--900%20Azure%20IA-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ciência%20de%20Dados-FF6F00?style=for-the-badge&logo=datacamp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linguagem%20R-276DC3?style=for-the-badge&logo=r-project&logoColor=white" />
-    <img src="https://img.shields.io/badge/Computação%20em%20Nuvem-1572B6?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pacote%20Office-E54A2D?style=for-the-badge&logo=microsoft-office&logoColor=lime" />
-</p>
+<div align="center">
 
-* **AI-900 – Fundamentos de IA no Azure** (Fundação Bradesco)
-* **Introdução à Ciência de Dados** (Santander Open Academy)
-* **Análise de Dados Em Linguagem R** (Enap)
-* **Computação em Nuvem** (CIEE)
-* **Introdução ao Git e GitHub** (FGV)
-* **Pacote Office** (Prepara Cursos Profissionalizantes)
+<img src="https://img.shields.io/badge/Azure%20AI--900-0A84FF?style=for-the-badge&logo=microsoftazure&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=googlecloud&logoColor=0A84FF"/>
+<img src="https://img.shields.io/badge/R%20Analytics-4B5563?style=for-the-badge&logo=r&logoColor=0A84FF"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-1F2937?style=for-the-badge&logo=googlecloud&logoColor=0A84FF"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-000000?style=for-the-badge&logo=github&logoColor=0A84FF"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-4C1D95?style=for-the-badge&logo=microsoftoffice&logoColor=ffffff"/>
+
+</div>
+
+---
+
+### 🎛️ Competências Corporativas (Core Skills)
+
+- Engenharia de Software  
+- Data Engineering & Pipelines  
+- APIs REST  
+- Modelos de Machine Learning  
+- Banco de Dados SQL/NoSQL  
+- Arquitetura Backend  
+- Deploy em Cloud  
+- Git • GitHub • Docker • Linux  
+
+---
+
+## 🚀 **Meu Objetivo Profissional**
+
+Criar e integrar sistemas **inteligentes**, **robustos** e **corporativos**, prontos para demandas reais de tecnologia.
+
+> _“Tecnologia não é só código — é solução.”_
+
+---
+
+<div align="center">
+
+### 🔵 Acesso ao Dashboard
+
+<img src="https://i.imgur.com/VUEvF1w.gif" width="420">
+
+</div>
 
