@@ -57,65 +57,53 @@ Acredito em código limpo, boas práticas, automação, dados e evolução const
 
 ---
 
-# 🧠 **Cursos & Certificações**
-Aqui estão alguns conhecimentos que expandiram minha jornada:
+<style>
+  .card-tron {
+    border: 2px solid #00eaff;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 10px 0;
+    background: rgba(0, 20, 30, 0.5);
+    box-shadow: 0 0 12px #00eaff;
+  }
+  .card-title {
+    color: #00eaff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .card-text {
+    color: #b8ffff;
+    font-size: 14px;
+  }
+</style>
 
----
-
-## 🎓 Fundação Bradesco
-**AI-900 – Fundamentos de IA no Azure**  
-📅 Emitido: nov/2025 — Expira: nov/2025  
-📄 Certificado: *Certificado.PDF*
-
----
-
-## 🎓 Santander Open Academy  
-**Introdução à Ciência de Dados**  
-📅 Emitido: nov/2025 — Expira: nov/2025  
-📄 Certificado: *Certificado.PDF*
-
----
-
-## 🎓 Enap  
-**Análise de Dados em Linguagem R**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PDF*
-
----
-
-## 🎓 CIEE  
-**Computação em Nuvem**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PNG*
-
----
-
-## 🎓 Fundação Getulio Vargas (FGV)  
-**Introdução ao Git e GitHub**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PDF*
-
----
-
-## 🎓 Prepara Cursos Profissionalizantes  
-**Pacote Office (Excel, PowerPoint, Word)**  
-📅 Emitido: ago/2009 — Expira: jul/2011  
-📄 Certificado: *Certificado.PDF*
-
----
-
-# 🌐 **Conecte-se comigo**
-<div align="center">
-  
-[<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>](https://www.linkedin.com)  
-[<img src="https://skillicons.dev/icons?i=instagram" width="50"/>](https://www.instagram.com)
-
+<div class="card-tron">
+  <div class="card-title">🎓 Fundação Bradesco</div>
+  <div class="card-text">AI-900 – Fundamentos de IA no Azure</div>
 </div>
 
----
+<div class="card-tron">
+  <div class="card-title">🎓 Santander Open Academy</div>
+  <div class="card-text">Introdução à Ciência de Dados</div>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div class="card-tron">
+  <div class="card-title">🎓 Enap</div>
+  <div class="card-text">Análise de Dados em Linguagem R</div>
+</div>
 
----
+<div class="card-tron">
+  <div class="card-title">🎓 CIEE</div>
+  <div class="card-text">Computação em Nuvem</div>
+</div>
+
+<div class="card-tron">
+  <div class="card-title">🎓 Fundação Getulio Vargas (FGV)</div>
+  <div class="card-text">Introdução ao Git e GitHub</div>
+</div>
+
+<div class="card-tron">
+  <div class="card-title">🎓 Prepara Cursos Profissionalizantes</div>
+  <div class="card-text">Pacote Office (Excel, PowerPoint, Word)</div>
+</div>
+
