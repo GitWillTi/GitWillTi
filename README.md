@@ -105,24 +105,32 @@ Aqui estão alguns conhecimentos que expandiram minha jornada:
 ---
 
 # 📊 **Minhas estatísticas no GitHub**
+<!-- Seção: Minhas estatísticas -->
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+<!-- 1) GitHub readme stats (perfil) -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&title_color=00ccff&icon_color=00ccff&text_color=00ccff&border_radius=8"
+  alt="GitHub stats for GitWillTi"
   height="160"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+<!-- 2) Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&title_color=00ccff&text_color=00ccff&border_radius=8"
+  alt="Top languages for GitWillTi"
   height="160"
 />
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=GitWillTi&theme=tokyonight&hide_border=true&background=00000000"
+<!-- 3) Streak stats -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=tokyonight&hide_border=true&date_format=%5B%22%d.%m.%Y%22%5D"
+  alt="GitHub streak stats for GitWillTi"
   height="160"
 />
 
 </div>
+
 
 
 ---
