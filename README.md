@@ -6,7 +6,7 @@ Sou desenvolvedor fullstack e especialista em **Big Data**, com experiência em 
 ## 💻 Linguagens & Tecnologias
 JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL | Linguagem R  
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,express,spring,django,fastapi,mysql,postgres,mongodb,firebase,aws,azure,gcp,tensorflow,sklearn,git,github,docker,linux,vscode,powerbi,r" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,express,spring,django,fastapi,mysql,postgres,mongodb,firebase,aws,azure,tensorflow,sklearn,git,github,docker,linux,vscode,r" />
 
 📫 Contato:  
 - Email: [alveswillian198@gmail.com](mailto:alveswillian198@gmail.com)  
