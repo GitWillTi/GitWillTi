@@ -21,8 +21,6 @@ JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL |
 - **Introdução ao Git e GitHub** – Fundação Getulio Vargas (Out/2025)  
 - **Pacote Office (Excel, PowerPoint, Word)** – Prepara Cursos Profissionalizantes (Ago/2009 – Jul/2011)  
 
-
-
 ## 🔥 Projetos & Skills
 - Desenvolvimento Fullstack com **React, Next.js, Node.js, Spring, Django, FastAPI**  
 - Bancos de dados **MySQL, PostgreSQL, MongoDB, Firebase**  
