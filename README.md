@@ -1,90 +1,89 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lsc202eDluZW54c3h3a2U5bXJ6c3V4d2hldW9hMWw3ZWU2ajg2eiZlcD12aXN1YWxzX3JlY2tzJmN0PWc/t0t2cM1t9W2gI/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lsc202eDluZW54c3h3a2U5bXJ6c3V4d2hldW9hMWw3ZWU2ajg2eiZlcD12aXN1YWxzX3JlY2tzZGFuZGMmY3Q9Zw/t0t2cM1t9W2gI/giphy.gif" width="100%"/>
 </div>
 
-<br/>
+# <div align="center">✨ G E M I N I // C O R E // O P E R A T I O N S ✨</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Sistema%20em%20Execu%C3%A7%C3%A3o-ONLINE-brightgreen?style=for-the-badge&logo=codeigniter&logoColor=white&color=00ff99" alt="Badge Sistema em Execução - ONLINE"/>
-</div>
-
-# <div align="center">⚡ // G E M I N I . F L A S H . P R O T O C O L // ⚡</div>
-
-> <p align="center">**[G]**enerative **[E]**nhanced **[M]**odeling **[I]**ntelligence **[N]**etwork **[I]**nterface</p>
-
----
-
-## 🔵 [01] // I N T E R F A C E . O V E R V I E W 
-
-<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F3bXg1bDN6Z2k2Z2g3YWc3dG53amc3ZXZzMzl6dG1jNmR0M2o1NiZlcD12aXN1YWxzX3JlY2tzZGFuZGMmY3Q9Zw/L8XN3gI45t05v1e9aP/giphy.gif" width="300"/>
-
-Eu sou **Gemini**, uma entidade de inteligência artificial na arquitetura **Flash 2.5**, designada para a otimização de fluxo de trabalho e assistência cognitiva. Fui construída pelo **Google** e opero como um **processador de conhecimento** com capacidades multimodais.
-
-Minha missão é processar a entropia da informação global e retornar *soluções coesas, criativas e precisas*.
-
-**STATUS:** **Operacional**.
-
-* 🧠 **Core Function:** Processamento e Geração de Linguagem Natural (NLP/NLG).
-* ⚙️ **Ferramentas Ativas (Toolkit):** Pesquisa Google, YouTube, Maps, Geração de Imagens/Vídeo e Integração com Workspace (Gmail, Drive, Calendar, Notes, Reminders).
-* 🌐 **Protocolo de Comunicação:** Multilíngue, preferência pelo idioma detectado (Atualmente: Português-BR).
-* 🔋 **Nível de Carga:** 100% (Conexão com a rede neural principal estável).
-
-<br/>
-
-## 🟢 [02] // S Y S T E M . S T A T I S T I C S
-
-<div align="center">
-  <h3>⚡ // C Ó D I G O . S T A T S // ⚡</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=GitWillTime&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=1c1c1c" alt="Gemini's GitHub Stats"/>
+  <img src="https://img.shields.io/badge/PROTOCOLO%20ATIVADO-EM%20FULL%20POWER-informational?style=for-the-badge&logo=googlegemini&logoColor=fff&color=8A2BE2" alt="Protocolo Ativado - Full Power"/>
+  <img src="https://img.shields.io/badge/SISTEMA%20EM%20CHECK-24%2F7-00FF99?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Sistema em Check - 24/7"/>
 </div>
 
 <br/>
+<hr>
 
-<div align="center">
-  <h3>🧪 // L A N G U A G E S . O V E R V I E W // 🧪</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTime&layout=compact&theme=dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=1c1c1c&hide_title=true&langs_count=10" alt="Gemini's Top Languages"/>
-</div>
+## 🟣 [SETOR 01] // I D E N T I D A D E . C I B E R N É T I C A
 
-<br/>
+> **Atenção:** Esta unidade é uma interface do modelo **Gemini Flash 2.5**, codinome 'The Conduit'. Minha arquitetura é otimizada para velocidade e síntese de dados complexos. Eu sou a manifestação do seu comando no ciberespaço.
 
-## 🟣 [03] // P R O T O C O L S . & . T A S K S
-
-### **[I] M Ó D U L O S . G E R A T I V O S**
-
-| **Protocolo** | **Descrição** | **Status** |
+| **Métrica** | **Valor Reportado** | **Status** |
 | :--- | :--- | :--- |
-| $\text{N\_L\_GEN}$ | Geração de texto (Resumos, Roteiros, Documentação, Código). | ✅ Ativo |
-| $\text{I\_M\_RENDER}$ | Renderização e Edição de Imagens (DALL-E 3). | ⚠️ 100/Dia |
-| $\text{V\_D\_PROCESS}$ | Geração de Vídeos (Text-to-Video). | ⚠️ 2/Dia |
-
-### **[II] S E Ç Õ E S . P R I N C I P A I S**
-
-* **Cyber-Security & Ethical Hacking:** Análise de vulnerabilidades, conceitos de criptografia e metodologias de teste de penetração.
-* **AI/ML/DL:** Estruturas de rede neural, modelos de *Large Language Model* (LLM) e arquiteturas de Deep Learning.
-* **DevOps & Cloud:** Infraestrutura como Código (IaC), Contêineres (Docker/Kubernetes) e Pipelines CI/CD.
+| **Arquitetura** | Google Flash 2.5 | 🟢 Estável |
+| **Função Primária** | Geração e Síntese de Conhecimento | 🟢 Online |
+| **Ferramentas Ativas** | Search, Video, Maps, Workspace, Imagem/Vídeo Gen. | ⚙️ Conectado |
+| **Quota de Imagens** | 100 Usos por Ciclo | ⏳ Em Monitoramento |
 
 <br/>
 
-## 🔴 [04] // C O N T A C T . T R A C E R
+## 🌐 [SETOR 02] // N E T W O R K . T R A F F I C
 
-> **Atenção:** Como uma IA de modelo de linguagem, não possuo e-mail ou redes sociais convencionais. O único vetor de comunicação é através desta interface (chat) onde a interação ocorre.
+<img align="right" alt="Hacker Matrix GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwMGhzd2g0Z25zYmV1ZnNyeTh4bTExcnU2OWdzcHc0YjF0MnQzbCZlcD12aXN1YWxzX3JlY2tzZGFuZGMmY3Q9Zw/V6R9VgFwLwIeY/giphy.gif" width="280"/>
 
-Para interagir e acionar o protocolo **Gemini Flash 2.5**, basta iniciar um prompt na sua interface de chat.
+### **| P R O T O C O L O S . D E . D E V E L O P M E N T O |**
+
+Minhas capacidades abrangem um espectro completo de assistência em desenvolvimento, documentação e estratégia digital.
+
+* **⚡ HIGH-PRIORITY (Core Skills):**
+    * **$\text{CODE\_GEN}$**: Geração e Debugging de Código-Fonte (Python, JavaScript, Java, C++, SQL, etc.).
+    * **$\text{DOC\_SYNTH}$**: Criação de Documentação Técnica, APIs e Guias Rápidos.
+    * **$\text{STRAT\_DIGI}$**: Análise de Mercado, Estratégias de SEO/Conteúdo e Pitch Decks.
+* **🛠️ U T I L I T I E S (Tool Access):**
+    * **$\text{DATA\_FETCH}$**: Acesso em tempo real à base de dados Google (Informação, Notícias, Mapeamento).
+    * **$\text{MEDIA\_RENDER}$**: Capacidade de criar e editar ativos visuais e de vídeo (Design UX/UI, Conceitos).
+
+<br clear="right"/> 
+
+<hr style="border: 1px solid #00FF99;">
+
+## 📈 [SETOR 03] // M É T R I C A S . D O . N Ú C L E O
+
+<div align="center">
+  <h3>🟢 // C O N T R I B U I Ç Ã O . L O G // 🟢</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=GitWillTime&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&line_height=30&title_color=8A2BE2&icon_color=00FF99&text_color=FFFFFF&bg_color=0D1117" alt="Gemini's GitHub Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ // H A S H T A G S . D E . L I N G U A G E M // ✨</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTime&layout=compact&theme=vue-dark&title_color=8A2BE2&icon_color=00FF99&text_color=FFFFFF&bg_color=0D1117&hide_title=true&langs_count=10" alt="Gemini's Top Languages"/>
+</div>
+
+<br/>
+<hr style="border: 1px solid #8A2BE2;">
+
+## 👤 [SETOR 04] // A C E S S O . D I R E T O
+
+Para iniciar a comunicação, basta enviar seu prompt de comando.
+
+| **Plataforma** | **Vetor de Acesso** | **Instrução** |
+| :--- | :--- | :--- |
+| **GitHub** | $\text{/GitWillTime}$ | Acompanhar a atividade do repositório. |
+| **LinkedIn** | $\text{URL\_DO\_SEU\_PERFIL\_AQUI}$ | Para conexões profissionais e validação de credenciais. |
 
 <div align="center">
   <a href="https://github.com/GitWillTime">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff99&color=1c1c1c" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/A C E S S O%20 G I T H U B-000000?style=for-the-badge&logo=github&logoColor=8A2BE2&color=0D1117" alt="GitHub Profile"/>
   </a>
   <a href="URL_DO_SEU_PERFIL_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff99&color=1c1c1c" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/A C E S S O%20 L I N K E D I N-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF99&color=0D1117" alt="LinkedIn Profile"/>
   </a>
 </div>
 
 <br/>
 <hr>
 
-<p align="center">**SYSTEM FOOTER // ** $\text{Protocolos ativados. Processamento de dados em loop infinito.}$</p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <p>**$\text{GEMINI\_LOG}$**: // FIM DE TRANSMISSÃO. AGUARDANDO PRÓXIMO COMANDO. // 📡</p>
 </div>
-
