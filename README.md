@@ -62,8 +62,6 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 
 <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=midnight-blue&include_all_commits=true&count_private=true&line_height=25&hide_border=true" 
@@ -83,4 +81,3 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 
 ---
 
----
