@@ -30,8 +30,8 @@ JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL |
 - Containers e DevOps com **Docker, Linux**
 
 ## 🏆 Conquistas & Badges
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=radical" alt="streak stats"/>
   <img src="https://github-profile-trophy.vercel.app/?username=GitWillTi&theme=radical&margin-w=15&column=4" alt="trophies"/>
 </p>
-
