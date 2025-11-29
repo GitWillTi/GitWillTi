@@ -6,12 +6,11 @@
   <title>Estatísticas do GitHub — Visualizador</title>
   <style>
   body {
-    background: radial-gradient(circle at center, #000 0%, #050015 100%);
-    font-family: 'Orbitron', sans-serif;
-    color: #fff;
-    overflow-x: hidden;
-    perspective: 1000px;
-  }
+  background: #000;
+  color: #0aff0a;
+  font-family: 'Courier New', monospace;
+  overflow: hidden;
+}
 
   .container {
     text-align: center;
@@ -83,13 +82,73 @@
     animation: holoDistort 3s infinite ease-in-out;
     display: inline-block;
   }
+  /* Matrix rain background */
+  canvas#matrixRain {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: black;
+  }
+
+  /* Matrix holographic text */
+  .matrix-holo {
+    text-shadow: 0 0 10px #00ff41, 0 0 20px #00ff41;
+    animation: matrixGlitch 2.5s infinite;
+  }
+
+  @keyframes matrixGlitch {
+    0% { filter: hue-rotate(0deg); }
+    25% { filter: hue-rotate(30deg); }
+    50% { filter: hue-rotate(60deg); }
+    75% { filter: hue-rotate(120deg); }
+    100% { filter: hue-rotate(0deg); }
+  }
 </style>
+
+<canvas id="matrixRain"></canvas>
+<script>
+  // MATRIX RAIN EFFECT
+  const canvas = document.getElementById('matrixRain');
+  const ctx = canvas.getContext('2d');
+
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789".split("");
+  const fontSize = 16;
+  const columns = canvas.width / fontSize;
+  const drops = [];
+
+  for (let i = 0; i < columns; i++) drops[i] = 1;
+
+  function draw() {
+    ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = "#00ff41";
+    ctx.font = fontSize + "px monospace";
+
+    for (let i = 0; i < drops.length; i++) {
+      const text = letters[Math.floor(Math.random() * letters.length)];
+      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
+
+      drops[i]++;
+    }
+  }
+
+  setInterval(draw, 33);
+</script>
 </head>
 <body>
   <div class="app">
     <header>
       <div>
-        <h1 class="holo-text">Estatísticas do GitHub</h1>
+        <h1 class="matrix-holo" class="holo-text">Estatísticas do GitHub</h1>
         <div style="color:var(--muted);font-size:13px">Insira um usuário GitHub para exibir estatísticas públicas</div>
       </div>
       <div class="controls">
@@ -255,3 +314,4 @@
   </script>
 </body>
 </html>
+
