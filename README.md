@@ -28,9 +28,9 @@ JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL |
 - Machine Learning com **TensorFlow e Scikit-Learn**  
 - Controle de versão e colaboração com **Git & GitHub**  
 - Containers e DevOps com **Docker, Linux**
-- 
-
+  
 ## 🏆 Conquistas & Badges
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=radical" alt="streak stats"/>
