@@ -11,8 +11,7 @@
 - 🌱 Atualmente estou aprendendo: `IA`, `Next.js`, `DevOps`
 - 💻 Trabalho com: `React`, `Node.js`, `Docker`, `PostgreSQL`
 - 💬 Pergunte-me sobre: `Desenvolvimento Web`, `APIs`, `UI/UX`
-- 📫 Como me encontrar: [Seu email] | [LinkedIn](https://linkedin.com/in/seu-perfil)
-
+- 📫 Como me encontrar: alveswillian198@gmail.com 
 ---
 
 📊 **Estatísticas do GitHub**
