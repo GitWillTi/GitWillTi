@@ -57,53 +57,67 @@ Acredito em código limpo, boas práticas, automação, dados e evolução const
 
 ---
 
-<style>
-  .card-tron {
-    border: 2px solid #00eaff;
-    border-radius: 12px;
-    padding: 15px;
-    margin: 10px 0;
-    background: rgba(0, 20, 30, 0.5);
-    box-shadow: 0 0 12px #00eaff;
-  }
-  .card-title {
-    color: #00eaff;
-    font-size: 18px;
-    font-weight: bold;
-  }
-  .card-text {
-    color: #b8ffff;
-    font-size: 14px;
-  }
-</style>
+<div align="center">
 
-<div class="card-tron">
-  <div class="card-title">🎓 Fundação Bradesco</div>
-  <div class="card-text">AI-900 – Fundamentos de IA no Azure</div>
+<table>
+<tr>
+<td>
+
+### 🎓 Fundação Bradesco  
+🚀 *AI-900 – Fundamentos de IA no Azure*
+
+</td>
+</tr>
+<tr><td><hr></td></tr>
+
+<tr>
+<td>
+
+### 🎓 Santander Open Academy  
+🚀 *Introdução à Ciência de Dados*
+
+</td>
+</tr>
+<tr><td><hr></td></tr>
+
+<tr>
+<td>
+
+### 🎓 Enap  
+🚀 *Análise de Dados em Linguagem R*
+
+</td>
+</tr>
+<tr><td><hr></td></tr>
+
+<tr>
+<td>
+
+### 🎓 CIEE  
+🚀 *Computação em Nuvem*
+
+</td>
+</tr>
+<tr><td><hr></td></tr>
+
+<tr>
+<td>
+
+### 🎓 Fundação Getulio Vargas (FGV)  
+🚀 *Introdução ao Git e GitHub*
+
+</td>
+</tr>
+<tr><td><hr></td></tr>
+
+<tr>
+<td>
+
+### 🎓 Prepara Cursos Profissionalizantes  
+🚀 *Pacote Office (Excel, PowerPoint, Word)*
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<div class="card-tron">
-  <div class="card-title">🎓 Santander Open Academy</div>
-  <div class="card-text">Introdução à Ciência de Dados</div>
-</div>
-
-<div class="card-tron">
-  <div class="card-title">🎓 Enap</div>
-  <div class="card-text">Análise de Dados em Linguagem R</div>
-</div>
-
-<div class="card-tron">
-  <div class="card-title">🎓 CIEE</div>
-  <div class="card-text">Computação em Nuvem</div>
-</div>
-
-<div class="card-tron">
-  <div class="card-title">🎓 Fundação Getulio Vargas (FGV)</div>
-  <div class="card-text">Introdução ao Git e GitHub</div>
-</div>
-
-<div class="card-tron">
-  <div class="card-title">🎓 Prepara Cursos Profissionalizantes</div>
-  <div class="card-text">Pacote Office (Excel, PowerPoint, Word)</div>
-</div>
-
