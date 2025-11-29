@@ -60,24 +60,8 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 
 ---
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-
 <div align="center">
+  <h3>🟢 Meu Status Atual</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=midnight-blue&include_all_commits=true&count_private=true&line_height=25&hide_border=true" 
-       alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=midnight-blue&line_height=25&hide_border=true" 
-       alt="Linguagens Mais Usadas" />
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=GitWillTi&theme=dracula&bg_color=00000000&color=9146FF&line=9146FF&point=FFFFFF&area=true&hide_border=true" 
-       alt="Gráfico de Atividade" />
+  <img src="https://lanyard.cnrd.io/api/615707833054175232?theme=dark" alt="Status de Atividade" />
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=GitWillTi&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Visualizações de Perfil" />
-</div>
-
----
-
