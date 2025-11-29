@@ -63,35 +63,24 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 <h2 align="center">📊 Minhas Estatísticas (Visual Estável)</h2>
 
 <div align="center">
-  
+
+  <!-- Linguagens Mais Usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=vision-friendly-dark&line_height=25&hide_border=true&card_width=380" 
        alt="Linguagens Mais Usadas" />
 
-  <br>
-  
+  <br><br>
+
+  <!-- Badges Sociais -->
   <img src="https://img.shields.io/github/followers/GitWillTi?label=Seguidores&style=social" alt="Seguidores no GitHub" />
   
   <img src="https://img.shields.io/github/repos/GitWillTi?label=Repositórios&style=social" alt="Total de Repositórios" />
   
   <img src="https://img.shields.io/github/stars/GitWillTi?label=Estrelas%20Totais&style=social" alt="Estrelas Totais" />
-  
+
 </div>
 
 <div align="center">
   <br>
+  <!-- Visualizações de Perfil -->
   <img src="https://komarev.com/ghpvc/?username=GitWillTi&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Visualizações de Perfil" />
 </div>
-
----
-
-**⚠️ Ação de Segurança:** Se este cartão (`top-langs`) também não carregar, a única maneira de corrigir isso é você **acessar a URL da imagem no seu navegador** (copie e cole a URL da imagem na barra de endereços). Se a imagem aparecer no navegador, o problema é no GitHub. Se não aparecer, é um problema de API.
-
----
-
-### Última Dica de Estabilidade:
-
-Como o `top-langs` é o cartão mais essencial, tente novamente, mas usando um tema diferente e retirando a transparência:
-
-```markdown
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=graywhite&line_height=25](https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=graywhite&line_height=25)" 
-       alt="Linguagens Mais Usadas" />
