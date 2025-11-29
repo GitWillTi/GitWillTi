@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
@@ -70,13 +70,26 @@
   a:hover {
     text-shadow: 0 0 10px #00faff;
   }
+  /* Holographic distortion effect */
+  @keyframes holoDistort {
+    0% { clip-path: polygon(0% 0%, 100% 2%, 100% 98%, 0% 100%); filter: hue-rotate(0deg) blur(0px); }
+    25% { clip-path: polygon(0% 2%, 100% 0%, 100% 96%, 0% 98%); filter: hue-rotate(30deg) blur(1px); }
+    50% { clip-path: polygon(0% 1%, 100% 3%, 100% 99%, 0% 97%); filter: hue-rotate(60deg) blur(0px); }
+    75% { clip-path: polygon(0% 3%, 100% 1%, 100% 97%, 0% 99%); filter: hue-rotate(120deg) blur(1px); }
+    100% { clip-path: polygon(0% 0%, 100% 2%, 100% 98%, 0% 100%); filter: hue-rotate(0deg) blur(0px); }
+  }
+
+  .holo-text {
+    animation: holoDistort 3s infinite ease-in-out;
+    display: inline-block;
+  }
 </style>
 </head>
 <body>
   <div class="app">
     <header>
       <div>
-        <h1>Estatísticas do GitHub</h1>
+        <h1 class="holo-text">Estatísticas do GitHub</h1>
         <div style="color:var(--muted);font-size:13px">Insira um usuário GitHub para exibir estatísticas públicas</div>
       </div>
       <div class="controls">
