@@ -1,123 +1,244 @@
-<h1 align="center" style="color:#00f0ff; text-shadow:0 0 20px #00f0ff;">
-  🔥 Will — Desenvolvedor Fullstack 🔥
-</h1>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Estatísticas do GitHub — Visualizador</title>
+  <style>
+  body {
+    background: radial-gradient(circle at center, #000 0%, #050015 100%);
+    font-family: 'Orbitron', sans-serif;
+    color: #fff;
+    overflow-x: hidden;
+    perspective: 1000px;
+  }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Tecnologia+é+minha+energia;Criador+de+soluções+digitais;Futuro,+dados+e+inovação&center=true&width=520&height=50&color=00f0ff" />
-</p>
+  .container {
+    text-align: center;
+    margin-top: 120px;
+    transform-style: preserve-3d;
+    animation: float 6s ease-in-out infinite;
+  }
 
----
+  @keyframes float {
+    0% { transform: translateY(0) rotateX(0deg) rotateY(0deg); }
+    50% { transform: translateY(-20px) rotateX(8deg) rotateY(8deg); }
+    100% { transform: translateY(0) rotateX(0deg) rotateY(0deg); }
+  }
 
-<div align="center">
+  h1 {
+    font-size: 4rem;
+    text-shadow: 0 0 20px #00f7ff, 0 0 40px #00eaff;
+    animation: neonPulse 2s infinite alternate;
+  }
 
-<img src="https://img.shields.io/badge/ESTILO-NEON-00f0ff?style=for-the-badge&logo=github&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-8f00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CYBER-GLOW-ff00ea?style=for-the-badge" />
+  @keyframes neonPulse {
+    0% { text-shadow: 0 0 10px #00eaff, 0 0 20px #00f7ff; }
+    100% { text-shadow: 0 0 30px #00f7ff, 0 0 60px #00faff; }
+  }
 
-</div>
+  .card {
+    width: 380px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(0, 10, 25, 0.35);
+    backdrop-filter: blur(12px);
+    border: 2px solid rgba(0, 255, 255, 0.3);
+    box-shadow: 0 0 20px #00faff80, inset 0 0 20px #00eaff40;
+    transform-style: preserve-3d;
+    transform: rotateY(-10deg);
+    animation: holoSpin 8s linear infinite;
+  }
 
----
+  @keyframes holoSpin {
+    0% { transform: rotateY(-10deg); }
+    50% { transform: rotateY(10deg); }
+    100% { transform: rotateY(-10deg); }
+  }
 
-# ⚡ Sobre mim
-<p align="center" style="font-size:16px; color:#00eaff;">
-  🚀 Apaixonado por tecnologia, dados e desenvolvimento fullstack.<br>
-  💡 Criando soluções modernas com design futurista e energia digital.<br>
-  🔥 Sempre aprendendo, evoluindo e elevando o nível.
-</p>
+  .glow {
+    font-size: 1.3rem;
+    text-shadow: 0 0 10px #00faff;
+  }
 
----
+  a {
+    color: #00faff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover {
+    text-shadow: 0 0 10px #00faff;
+  }
+</style>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div>
+        <h1>Estatísticas do GitHub</h1>
+        <div style="color:var(--muted);font-size:13px">Insira um usuário GitHub para exibir estatísticas públicas</div>
+      </div>
+      <div class="controls">
+        <input id="username" placeholder="ex: torvalds" />
+        <input id="token" placeholder="(opcional) token pessoal — aumenta limite" />
+        <button id="btnFetch">Buscar</button>
+      </div>
+    </header>
 
-# 🌐 Tecnologias — Painel Neon
-<div align="center">
+    <div id="result" class="grid">
+      <div class="card" id="leftCard">
+        <div id="profileArea" class="profile">
+          <div class="avatar"><img id="avatarImg" src="" alt="avatar"/></div>
+          <div id="nameLogin"></div>
+          <div id="bio" style="color:var(--muted);font-size:13px"></div>
+          <div class="stats" id="topStats"></div>
+          <div class="badges" id="badges"></div>
+        </div>
+      </div>
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br><b style="color:#00f0ff">JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br><b style="color:#00f0ff">Front-End</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br><b style="color:#00f0ff">Java</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><b style="color:#00f0ff">Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><b style="color:#00f0ff">MySQL</b></td>
-</tr>
+      <div class="card" id="rightCard">
+        <div class="top-row">
+          <div style="flex:1">
+            <div style="font-weight:600">Resumo</div>
+            <div id="summary" style="color:var(--muted);font-size:13px">Nenhuma busca ainda</div>
+          </div>
+          <div>
+            <button id="btnExport">Exportar JSON</button>
+          </div>
+        </div>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br><b style="color:#00f0ff">CSS</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br><b style="color:#00f0ff">GitHub</b></td>
-<td align="center"><img src="https://img.icons8.com/ios-filled/50/00eaff/power-bi.png" width="40"/><br><b style="color:#00f0ff">Power BI</b></td>
-<td align="center"><img src="https://www.r-project.org/logo/Rlogo.png" width="55"/><br><b style="color:#00f0ff">R</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br><b style="color:#00f0ff">Git</b></td>
-</tr>
-</table>
+        <hr style="margin:12px 0;border:none;border-top:1px solid rgba(255,255,255,0.03)" />
 
-</div>
+        <div class="main-stats">
+          <div class="big card" style="padding:12px">
+            <div style="font-weight:600">Repositórios (top 10)</div>
+            <div id="repos" class="repos-list"></div>
+          </div>
 
----
+          <div class="small card" style="padding:12px">
+            <div style="font-weight:600">Estatísticas agregadas</div>
+            <div style="margin-top:8px;color:var(--muted);font-size:13px" id="aggStats"></div>
+            <div style="margin-top:12px;font-weight:600">Linguagens</div>
+            <div id="languages" style="margin-top:8px;color:var(--muted);font-size:13px"></div>
+          </div>
+        </div>
 
-# 🎓 Certificações — Modo Neon
+        <footer>
+          Nota: a maioria das estatísticas são públicas. Use um token GitHub (scopes mínimos: public_repo) se atingir limites de requisição.
+        </footer>
+      </div>
+    </div>
+  </div>
 
-### 🌟 Fundação Bradesco  
-**AI-900 – Fundamentos de IA no Azure**  
-📆 Nov/2025 — Nov/2025
+  <script>
+    // Helper: cria elemento com texto
+    const $ = (sel) => document.querySelector(sel);
+    const btn = $('#btnFetch');
+    const usernameInput = $('#username');
+    const tokenInput = $('#token');
 
----
+    btn.addEventListener('click', () => run());
+    usernameInput.addEventListener('keydown', (e)=>{ if(e.key==='Enter') run(); });
 
-### 🌟 Santander Open Academy  
-**Introdução à Ciência de Dados**  
-📆 Nov/2025 — Nov/2025
+    async function run(){
+      const user = usernameInput.value.trim();
+      const token = tokenInput.value.trim();
+      if(!user){ alert('Informe um usuário GitHub.'); return; }
+      setLoading(true);
+      clearUI();
+      try{
+        const headers = token ? { Authorization: 'token '+token } : {};
+        // 1) busca infos do usuário
+        const userRes = await fetch(`https://api.github.com/users/${encodeURIComponent(user)}`, {headers});
+        if(userRes.status===404) throw new Error('Usuário não encontrado');
+        if(userRes.status===401) throw new Error('Token inválido');
+        if(!userRes.ok) throw new Error('Erro ao buscar usuário: '+userRes.status);
+        const userData = await userRes.json();
 
----
+        // 2) busca todos os repositórios (paginação)
+        let page = 1; const per_page = 100; let repos = [];
+        while(true){
+          const url = `https://api.github.com/users/${encodeURIComponent(user)}/repos?per_page=${per_page}&page=${page}&sort=updated`;
+          const r = await fetch(url, {headers});
+          if(!r.ok) throw new Error('Erro ao buscar repositórios: '+r.status);
+          const chunk = await r.json();
+          repos = repos.concat(chunk);
+          if(chunk.length < per_page) break;
+          page++;
+          // segurança: previne loop infinito
+          if(page>20) break;
+        }
 
-### 🌟 Enap  
-**Análise de Dados em Linguagem R**  
-📆 Out/2025 — Out/2025
+        // Agrega dados
+        let totalStars = 0, totalForks = 0, totalOpenIssues = 0;
+        const langMap = {};
+        for(const repo of repos){
+          totalStars += repo.stargazers_count || 0;
+          totalForks += repo.forks_count || 0;
+          totalOpenIssues += repo.open_issues_count || 0;
+          if(repo.language){ langMap[repo.language] = (langMap[repo.language]||0) + 1; }
+        }
 
----
+        // Ordena repositórios por estrelas
+        const topRepos = repos.slice().sort((a,b)=> (b.stargazers_count||0) - (a.stargazers_count||0)).slice(0,10);
 
-### 🌟 CIEE  
-**Computação em Nuvem**  
-📆 Out/2025 — Out/2025
+        // Exibe
+        $('#avatarImg').src = userData.avatar_url || '';
+        $('#nameLogin').innerHTML = `<div style="font-weight:700">${escapeHtml(userData.name || '')}</div><div style="color:var(--muted)">@${escapeHtml(userData.login)}</div>`;
+        $('#bio').textContent = userData.bio || '';
+        $('#topStats').innerHTML = '';
+        addStat(`${userData.public_repos} repos`);
+        addStat(`${totalStars} ★`);
+        addStat(`${userData.followers} seguidores`);
+        addStat(`${userData.following} seguindo`);
 
----
+        $('#badges').innerHTML = '';
+        if(userData.company) addBadge(userData.company);
+        if(userData.location) addBadge(userData.location);
+        if(userData.blog) addBadge(`<a href="${escapeHtml(userData.blog)}" target="_blank">site</a>`);
 
-### 🌟 FGV — Fundação Getulio Vargas  
-**Introdução ao Git e GitHub**  
-📆 Out/2025 — Out/2025
+        $('#summary').textContent = `${userData.login} — ${userData.public_repos} repositórios públicos, ${totalStars} estrelas total, ${totalForks} forks.`;
 
----
+        // repos list
+        const reposDiv = $('#repos');
+        reposDiv.innerHTML = '';
+        for(const r of topRepos){
+          const el = document.createElement('div'); el.className='repo';
+          el.innerHTML = `<div style="max-width:70%"><a href="${r.html_url}" target="_blank">${escapeHtml(r.name)}</a> <div style="color:var(--muted);font-size:12px">${escapeHtml(r.description||'')}</div></div><div style="text-align:right;color:var(--muted);font-size:13px">★ ${r.stargazers_count || 0} · Forks ${r.forks_count || 0}</div>`;
+          reposDiv.appendChild(el);
+        }
 
-### 🌟 Prepara Cursos  
-**Pacote Office (Word, Excel, PowerPoint)**  
-📆 Ago/2009 — Jul/2011
+        // agregados
+        $('#aggStats').innerHTML = `Estrelas totais: <strong>${totalStars}</strong><br/>Forks totais: <strong>${totalForks}</strong><br/>Issues abertas (soma): <strong>${totalOpenIssues}</strong><br/>Repositórios públicos: <strong>${userData.public_repos}</strong>`;
 
----
+        // linguagens
+        const languages = Object.entries(langMap).sort((a,b)=>b[1]-a[1]).slice(0,10);
+        $('#languages').innerHTML = languages.map(l=>`${escapeHtml(l[0])}: ${l[1]} repos`).join('<br/>') || '<span style="color:var(--muted)">Nenhuma linguagem detectada</span>';
 
-# ⚡ Painel de Estatísticas — Tema *Neon Tokyo*
+        // export
+        $('#btnExport').onclick = ()=>{
+          const payload = { user: userData, repos, totals: {stars:totalStars,forks:totalForks,issues:totalOpenIssues}, languages: langMap };
+          const blob = new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a'); a.href=url; a.download = `${userData.login||user}_github_stats.json`; a.click(); URL.revokeObjectURL(url);
+        };
 
-<div align="center">
+      }catch(err){
+        console.error(err);
+        const right = $('#rightCard');
+        right.querySelector('#summary').textContent = 'Erro: '+err.message;
+        if(!$('#rightCard').querySelector('.error')){
+          const e = document.createElement('div'); e.className='error'; e.textContent = err.message; $('#rightCard').prepend(e);
+        }
+      } finally { setLoading(false); }
+    }
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d00&title_color=00f0ff&icon_color=00f0ff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d00&title_color=ff00ff" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=neon-palenight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🐍 Efeito Cobra Neon (Contribuições)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🔗 Conecte-se comigo
-<div align="center">
-
-[<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>](https://www.linkedin.com)  
-[<img src="https://skillicons.dev/icons?i=instagram" width="60"/>](https://www.instagram.com)
-
-</div>
-
----
+    function addStat(text){ const d=document.createElement('div'); d.className='stat'; d.innerHTML=text; $('#topStats').appendChild(d); }
+    function addBadge(text){ const d=document.createElement('div'); d.className='stat'; d.innerHTML=text; $('#badges').appendChild(d); }
+    function clearUI(){ $('#avatarImg').src=''; $('#nameLogin').innerHTML=''; $('#bio').textContent=''; $('#topStats').innerHTML=''; $('#badges').innerHTML=''; $('#repos').innerHTML=''; $('#aggStats').innerHTML=''; $('#languages').innerHTML=''; const err = document.querySelector('.error'); if(err) err.remove(); }
+    function setLoading(v){ document.body.classList.toggle('loading', v); btn.disabled = v; btn.textContent = v? 'Buscando...' : 'Buscar'; }
+    function escapeHtml(s){ if(!s) return ''; return s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;'); }
+  </script>
+</body>
+</html>
