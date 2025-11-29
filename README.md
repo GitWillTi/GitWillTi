@@ -1,119 +1,80 @@
-<h1 align="center">👋 Olá, eu sou Will!</h1>
+<!-- HUD Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+Evoluindo;Inovação+é+o+meu+combustível&center=true&width=520&height=50&color=00eaff" />
-</p>
+<img src="https://i.imgur.com/1Q9Z1ZQ.gif" width="100%" alt="hud-line"/>
+
+<h1>🎮 Will | Fullstack Developer</h1>
+
+<img src="https://i.imgur.com/1Q9Z1ZQ.gif" width="100%" alt="hud-line"/>
+
+</div>
 
 ---
 
-## 🚀 **Sobre mim**
-Sou um desenvolvedor **Fullstack** apaixonado por criar experiências modernas, eficientes e futuristas.  
-Acredito em código limpo, boas práticas, automação, dados e evolução constante.  
+## 🧩 **Sobre Mim**
+> Desenvolvedor Fullstack apaixonado por interfaces futuristas, automação, dados e tudo que envolve tecnologia.  
+> Sempre buscando evoluir meu nível como se fosse um **upgrade de personagem**.
 
 ---
 
-# 🛰️ **Tecnologias que domino**
+## ⚡ **Tecnologias — Loadout HUD**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python,mysql,git,github,r,powershell&theme=light" />
+
+</div>
+
+---
+
+## 🎖️ **Cursos & Certificações — Status Log**
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/><br>Front-End
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
-</tr>
+<tr><td>
 
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-</td>
-<td align="center" width="100">
-  <img src="https://img.icons8.com/ios-filled/50/power-bi.png" width="40"/><br>PowerBI
-</td>
-<td align="center" width="100">
-  <img src="https://www.r-project.org/logo/Rlogo.png" width="45"/><br>Linguagem R
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-</td>
-</tr>
+🟦 **Fundação Bradesco** — *AI-900 – Fundamentos de IA*  
+
+🟦 **Santander Open Academy** — *Introdução à Ciência de Dados*  
+
+🟦 **Enap** — *Análise de Dados em R*  
+
+🟦 **CIEE** — *Computação em Nuvem*  
+
+🟦 **FGV** — *Introdução ao Git e GitHub*  
+
+🟦 **Prepara Cursos** — *Pacote Office*  
+
+</td></tr>
 </table>
 
 </div>
 
 ---
 
-<!-- Fundo Matrix -->
-<div align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" />
-</div>
-
----
-
-## 🧠 **Cursos & Certificações (Matrix Edition)**
-
+## 📊 **Estatísticas — Painel HUD**
 <div align="center">
 
-<table>
-<tr><td>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=react&hide_border=true"/>
 
-🟩 **Fundação Bradesco**  
-`AI-900 – Fundamentos de IA`
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=react&hide_border=true"/>
 
-</td></tr>
-
-<tr><td>
-
-🟩 **Santander Open Academy**  
-`Introdução à Ciência de Dados`
-
-</td></tr>
-
-<tr><td>
-
-🟩 **Enap**  
-`Análise de Dados em R`
-
-</td></tr>
-
-<tr><td>
-
-🟩 **CIEE**  
-`Computação em Nuvem`
-
-</td></tr>
-
-<tr><td>
-
-🟩 **FGV**  
-`Introdução ao Git e GitHub`
-
-</td></tr>
-
-<tr><td>
-
-🟩 **Prepara Cursos**  
-`Pacote Office`
-
-</td></tr>
-
-</table>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=react&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🔗 **Conecte-se Comigo**
+<div align="center">
+
+[<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>](https://www.linkedin.com)  
+[<img src="https://skillicons.dev/icons?i=instagram" width="50"/>](https://www.instagram.com)
+
+</div>
+
+---
+
+<!-- Final HUD Line -->
+<div align="center">
+<img src="https://i.imgur.com/1Q9Z1ZQ.gif" width="100%" />
+</div>
