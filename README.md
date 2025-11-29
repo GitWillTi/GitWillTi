@@ -60,27 +60,39 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 
 ---
 
-<h2 align="center">📊 Minhas Estatísticas (Visual Estável)</h2>
+<h2 align="center">📈 Minhas Estatísticas do GitHub</h2>
 
 <div align="center">
 
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=vision-friendly-dark&line_height=25&hide_border=true&card_width=380" 
+  <!-- Card de Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=radical&count_private=true&hide_border=false" 
+       alt="Estatísticas do GitHub" width="450"/>
+
+  <br><br>
+
+  <!-- Card de Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&hide_border=false&card_width=380" 
        alt="Linguagens Mais Usadas" />
 
   <br><br>
 
-  <!-- Badges Sociais -->
-  <img src="https://img.shields.io/github/followers/GitWillTi?label=Seguidores&style=social" alt="Seguidores no GitHub" />
-  
-  <img src="https://img.shields.io/github/repos/GitWillTi?label=Repositórios&style=social" alt="Total de Repositórios" />
-  
-  <img src="https://img.shields.io/github/stars/GitWillTi?label=Estrelas%20Totais&style=social" alt="Estrelas Totais" />
+  <!-- Badges Sociais e Info -->
+  <img src="https://img.shields.io/github/followers/GitWillTi?label=Seguidores&style=social&color=blue" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/repos/GitWillTi?label=Repositórios&style=social&color=green" alt="Total de Repositórios" />
+  <img src="https://img.shields.io/github/stars/GitWillTi?label=Estrelas&style=social&color=yellow" alt="Estrelas Totais" />
 
-</div>
+  <br><br>
 
-<div align="center">
-  <br>
   <!-- Visualizações de Perfil -->
-  <img src="https://komarev.com/ghpvc/?username=GitWillTi&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Visualizações de Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=GitWillTi&label=Visualizações%20de%20Perfil&color=ff69b4&style=flat" alt="Visualizações de Perfil" />
+
 </div>
+
+---
+
+### ⚡ Extras que Você Pode Adicionar
+
+- **Repos mais populares:**  
+```html
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GitWillTi&repo=nome-do-repo&theme=radical" alt="Repo Popular" />
+
