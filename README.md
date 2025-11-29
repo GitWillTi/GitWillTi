@@ -105,28 +105,38 @@ Aqui estão alguns conhecimentos que expandiram minha jornada:
 ---
 
 # 📊 **Minhas estatísticas no GitHub**
-<!-- Seção: Minhas estatísticas -->
 <div align="center">
 
-<!-- 1) GitHub readme stats (perfil) -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&title_color=00ccff&icon_color=00ccff&text_color=00ccff&border_radius=8"
-  alt="GitHub stats for GitWillTi"
-  height="160"
+<!-- Camada 1 (sombra holográfica) -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+  style="filter: blur(6px) brightness(2) saturate(2) drop-shadow(0px 0px 20px #00eaff); position: absolute; transform: translateY(12px) scale(1.04); opacity: 0.5;"
 />
 
-<!-- 2) Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&title_color=00ccff&text_color=00ccff&border_radius=8"
-  alt="Top languages for GitWillTi"
-  height="160"
+<!-- Camada 2 (painel principal 3D) -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+  style="position: relative; z-index: 10;"
 />
 
-<!-- 3) Streak stats -->
+<br><br>
+
+<!-- Holograma 3D de linguagens -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=tokyonight&hide_border=true&date_format=%5B%22%d.%m.%Y%22%5D"
-  alt="GitHub streak stats for GitWillTi"
-  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+  style="filter: drop-shadow(0px 0px 15px #00eaff) brightness(1.6) saturate(1.5); transform: perspective(400px) rotateX(8deg);"
+/>
+
+<br><br>
+
+<!-- Streak holográfico -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=GitWillTi&theme=tokyonight&hide_border=true"
+  height="170"
+  style="filter: drop-shadow(0px 0px 20px #00eaff) brightness(1.5) saturate(1.5); transform: perspective(500px) rotateX(6deg);"
 />
 
 </div>
