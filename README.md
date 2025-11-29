@@ -107,11 +107,11 @@ Aqui estão alguns conhecimentos que expandiram minha jornada:
 # 📊 **Minhas estatísticas no GitHub**
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
 
 </div>
 
