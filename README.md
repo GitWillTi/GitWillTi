@@ -60,20 +60,19 @@ Sou um profissional em formação, com foco em **Big Data**, e busco aplicar meu
 
 ---
 
-<h2 align="center">⏱️ Tempo de Código e Produtividade</h2>
+<h2 align="center">📈 Contribuições em Ação</h2>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GitWillTi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=GitWillTi&theme=dracula&bg_color=00000000&color=9146FF&line=9146FF&point=FFFFFF&area=true&hide_border=true" 
+       alt="Gráfico de Atividade" />
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GitWillTi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" alt="GitHub Streak Stats" />
 
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&theme=midnight-blue&line_height=25&hide_border=true&title_color=fff&text_color=ccc" 
-       alt="Linguagens mais usadas por commits" />
-</div>
-
-<div align="center">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=GitWillTi&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Visualizações de Perfil" />
 </div>
 
