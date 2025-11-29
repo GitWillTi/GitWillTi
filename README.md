@@ -1,55 +1,50 @@
-<h1 align="center">👋 Olá, eu sou Will!</h1>
+<h1 align="center" style="color:#00f0ff; text-shadow:0 0 20px #00f0ff;">
+  🔥 Will — Desenvolvedor Fullstack 🔥
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+Evoluindo;Inovação+é+o+meu+combustível&center=true&width=520&height=50&color=00eaff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Tecnologia+é+minha+energia;Criador+de+soluções+digitais;Futuro,+dados+e+inovação&center=true&width=520&height=50&color=00f0ff" />
 </p>
 
 ---
 
-## 🚀 **Sobre mim**
-Sou um desenvolvedor **Fullstack** apaixonado por criar experiências modernas, eficientes e futuristas.  
-Acredito em código limpo, boas práticas, automação, dados e evolução constante.  
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESTILO-NEON-00f0ff?style=for-the-badge&logo=github&logoColor=00f0ff" />
+<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-8f00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CYBER-GLOW-ff00ea?style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🛰️ **Tecnologias que domino**
+# ⚡ Sobre mim
+<p align="center" style="font-size:16px; color:#00eaff;">
+  🚀 Apaixonado por tecnologia, dados e desenvolvimento fullstack.<br>
+  💡 Criando soluções modernas com design futurista e energia digital.<br>
+  🔥 Sempre aprendendo, evoluindo e elevando o nível.
+</p>
+
+---
+
+# 🌐 Tecnologias — Painel Neon
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/><br>Front-End
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br><b style="color:#00f0ff">JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br><b style="color:#00f0ff">Front-End</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br><b style="color:#00f0ff">Java</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><b style="color:#00f0ff">Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><b style="color:#00f0ff">MySQL</b></td>
 </tr>
 
 <tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-</td>
-<td align="center" width="100">
-  <img src="https://img.icons8.com/ios-filled/50/power-bi.png" width="40"/><br>PowerBI
-</td>
-<td align="center" width="100">
-  <img src="https://www.r-project.org/logo/Rlogo.png" width="45"/><br>Linguagem R
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br><b style="color:#00f0ff">CSS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br><b style="color:#00f0ff">GitHub</b></td>
+<td align="center"><img src="https://img.icons8.com/ios-filled/50/00eaff/power-bi.png" width="40"/><br><b style="color:#00f0ff">Power BI</b></td>
+<td align="center"><img src="https://www.r-project.org/logo/Rlogo.png" width="55"/><br><b style="color:#00f0ff">R</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br><b style="color:#00f0ff">Git</b></td>
 </tr>
 </table>
 
@@ -57,78 +52,72 @@ Acredito em código limpo, boas práticas, automação, dados e evolução const
 
 ---
 
-# 🧠 **Cursos & Certificações**
-Aqui estão alguns conhecimentos que expandiram minha jornada:
+# 🎓 Certificações — Modo Neon
 
----
-
-## 🎓 Fundação Bradesco
+### 🌟 Fundação Bradesco  
 **AI-900 – Fundamentos de IA no Azure**  
-📅 Emitido: nov/2025 — Expira: nov/2025  
-📄 Certificado: *Certificado.PDF*
+📆 Nov/2025 — Nov/2025
 
 ---
 
-## 🎓 Santander Open Academy  
+### 🌟 Santander Open Academy  
 **Introdução à Ciência de Dados**  
-📅 Emitido: nov/2025 — Expira: nov/2025  
-📄 Certificado: *Certificado.PDF*
+📆 Nov/2025 — Nov/2025
 
 ---
 
-## 🎓 Enap  
+### 🌟 Enap  
 **Análise de Dados em Linguagem R**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PDF*
+📆 Out/2025 — Out/2025
 
 ---
 
-## 🎓 CIEE  
+### 🌟 CIEE  
 **Computação em Nuvem**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PNG*
+📆 Out/2025 — Out/2025
 
 ---
 
-## 🎓 Fundação Getulio Vargas (FGV)  
+### 🌟 FGV — Fundação Getulio Vargas  
 **Introdução ao Git e GitHub**  
-📅 Emitido: out/2025 — Expira: out/2025  
-📄 Certificado: *Certificado.PDF*
+📆 Out/2025 — Out/2025
 
 ---
 
-## 🎓 Prepara Cursos Profissionalizantes  
-**Pacote Office (Excel, PowerPoint, Word)**  
-📅 Emitido: ago/2009 — Expira: jul/2011  
-📄 Certificado: *Certificado.PDF*
+### 🌟 Prepara Cursos  
+**Pacote Office (Word, Excel, PowerPoint)**  
+📆 Ago/2009 — Jul/2011
 
 ---
 
-# 📊 **Minhas estatísticas no GitHub**
+# ⚡ Painel de Estatísticas — Tema *Neon Tokyo*
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d00&title_color=00f0ff&icon_color=00f0ff" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d00&title_color=ff00ff" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=neon-palenight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 🌐 **Conecte-se comigo**
-<div align="center">
-  
-[<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>](https://www.linkedin.com)  
-[<img src="https://skillicons.dev/icons?i=instagram" width="50"/>](https://www.instagram.com)
-
-</div>
-
----
+# 🐍 Efeito Cobra Neon (Contribuições)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+# 🔗 Conecte-se comigo
+<div align="center">
+
+[<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>](https://www.linkedin.com)  
+[<img src="https://skillicons.dev/icons?i=instagram" width="60"/>](https://www.instagram.com)
+
+</div>
 
 ---
