@@ -104,31 +104,6 @@ Aqui estão alguns conhecimentos que expandiram minha jornada:
 
 ---
 
-# 📊 **Minhas estatísticas no GitHub**
-<div align="center">
-
-<!-- Painel Principal -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=GitWillTi&show_icons=true&hide_border=true&border_radius=20&bg_color=000000&title_color=00eaff&text_color=9be7ff&icon_color=00eaff"
-  height="165"
-/>
-
-<!-- Linguagens Mais Usadas -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&layout=compact&hide_border=true&border_radius=20&bg_color=000000&title_color=00eaff&text_color=9be7ff"
-  height="165"
-/>
-
-<!-- Streak (dias seguidos) -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&hide_border=true&background=000000&ring=00eaff&currStreakLabel=00eaff&sideNums=9be7ff&sideLabels=00eaff&dates=007a99&fire=00eaff"
-  height="165"
-/>
-
-</div>
-
----
-
 # 🌐 **Conecte-se comigo**
 <div align="center">
   
