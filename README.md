@@ -1,156 +1,54 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Hacker Profile</title>
-<style>
-/* ======== GLOBAL ======== */
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
-body {
-  margin: 0;
-  padding: 0;
-  background: #000;
-  color: #00ff9d;
-  font-family: 'Share Tech Mono', monospace;
-  overflow-x: hidden;
-}
+# Olá 👋 Eu sou o SEU_NOME
 
-/* ======== MATRIX BACKGROUND ======== */
-canvas#matrix {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: -1;
-  background: #000;
-}
+**Big Data | Fullstack | Software Engineer**
 
-/* ======== GLITCH TITLE ======== */
-.glitch {
-  font-size: 3rem;
-  font-weight: bold;
-  position: relative;
-  text-align: center;
-  margin-top: 60px;
-  letter-spacing: 2px;
-}
-.glitch:before, .glitch:after {
-  content: attr(data-text);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-.glitch:before {
-  left: 2px;
-  text-shadow: -2px 0 red;
-  animation: glitch-1 2s infinite linear alternate-reverse;
-}
-.glitch:after {
-  left: -2px;
-  text-shadow: -2px 0 blue;
-  animation: glitch-2 2s infinite linear alternate-reverse;
-}
+Sou apaixonado por dados, desenvolvimento e soluções em nuvem. Atualmente me aprofundando em análise de dados, IA aplicada e engenharia de dados. Gosto de transformar dados em insights acionáveis e de construir aplicações que resolvem problemas reais.
 
-@keyframes glitch-1 {
-  0% { clip-path: inset(0 0 85% 0); }
-  20% { clip-path: inset(40% 0 20% 0); }
-  40% { clip-path: inset(80% 0 10% 0); }
-  60% { clip-path: inset(10% 0 60% 0); }
-  80% { clip-path: inset(30% 0 50% 0); }
-  100% { clip-path: inset(0 0 85% 0); }
-}
-@keyframes glitch-2 {
-  0% { clip-path: inset(10% 0 70% 0); }
-  20% { clip-path: inset(60% 0 10% 0); }
-  40% { clip-path: inset(20% 0 40% 0); }
-  60% { clip-path: inset(70% 0 20% 0); }
-  80% { clip-path: inset(40% 0 30% 0); }
-  100% { clip-path: inset(10% 0 70% 0); }
-}
+---
 
-/* ======== CARD ======== */
-.card {
-  width: 80%;
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 20px;
-  background: rgba(0, 0, 0, 0.6);
-  border: 1px solid #00ff9d;
-  border-radius: 10px;
-  box-shadow: 0 0 15px #00ff9d;
-  backdrop-filter: blur(5px);
-}
-.card h2 {
-  text-align: center;
-  margin-bottom: 15px;
-}
-.card p {
-  line-height: 1.6;
-}
+## 🧰 Tecnologias & Skills
+- **Linguagens:** Python, R, SQL, JavaScript (Node.js)
+- **Data:** ETL, Pandas, NumPy, Spark (básico), análise exploratória
+- **Web / Dev:** HTML, CSS, React, REST APIs, Express
+- **Nuvem / Infra:** Azure (Fundamentos), Docker, CI/CD básico
+- **Ferramentas:** Git, GitHub, Jupyter, VS Code
 
-/* ======== BADGES ======== */
-.badges {
-  text-align: center;
-  margin-top: 20px;
-}
-.badge {
-  display: inline-block;
-  margin: 8px;
-  padding: 10px 18px;
-  border: 1px solid #00ff9d;
-  border-radius: 5px;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  box-shadow: 0 0 10px #00ff9d;
-}
-</style>
-</head>
-<body>
-<canvas id="matrix"></canvas>
+---
 
-<div class="glitch" data-text="HACKER PROFILE">HACKER PROFILE</div>
+## 🎓 Cursos & Certificações
+- **AI-900 – Fundamentos de IA no Azure**  
+- **Fundação Bradesco — Introdução à Ciência de Dados**  
+- **Santander Open Academy — Análise de Dados em Linguagem R**  
+- **Enap — Computação em Nuvem**  
+- **CIEE — (Cursos/Projetos práticos)**
 
-<div class="card">
-  <h2>Sobre Mim</h2>
-  <p>Desenvolvedor focado em alta performance, segurança e estilo hacker. Criando interfaces futuristas, animações complexas e projetos que parecem saídos de um terminal sci-fi.</p>
+> Se quiser, eu posso organizar esses cursos em seções com certificados e links.
 
-  <div class="badges">
-    <div class="badge">Developer</div>
-    <div class="badge">Cyberpunk UI</div>
-    <div class="badge">Dark Neon</div>
-  </div>
-</div>
+---
 
-<script>
-// === MATRIX EFFECT ===
-const canvas = document.getElementById('matrix');
-const ctx = canvas.getContext('2d');
-canvas.height = window.innerHeight;
-canvas.width = window.innerWidth;
+## 🔭 Projetos em destaque
+> Pequenas descrições — substitua com seus projetos reais
 
-const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-const arr = Array(Math.floor(canvas.width / 20)).fill(0);
+- **Projeto X (Análise de Dados)** — Pipeline ETL para limpeza e análise de dados públicos; dashboards com insights.  
+- **API Y (Fullstack)** — Backend em Node.js + front em React para gerenciar e visualizar métricas.  
+- **Pipelines Z (Big Data)** — Rotina de ingestão + transformação em lote (Python + agendador).
 
-setInterval(() => {
-  ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
+*Links para repositórios:*  
+`/repositorio-analise-dados` • `/repositorio-api` • `/repositorio-pipelines`
 
-  ctx.fillStyle = '#00ff9d';
-  ctx.font = '15px monospace';
+---
 
-  arr.forEach((y, index) => {
-    const text = letters.charAt(Math.floor(Math.random() * letters.length));
-    const x = index * 20;
-    ctx.fillText(text, x, y);
+## 📫 Contato
+- Email: `SEU_EMAIL`
+- LinkedIn: [SEU_LINKEDIN](SEU_LINKEDIN)
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
 
-    arr[index] = y > canvas.height + Math.random() * 100 ? 0 : y + 20;
-  });
-}, 50);
-</script>
+---
 
-</body>
-</html>
+## 📈 GitHub Stats
+> Se quiser inserir os cards de stats dinâmicos (usa serviços externos tipo `github-readme-stats`), cole isso no README abaixo das seções. Troque `seu-usuario` pelo seu usuário GitHub.
+
+```md
+<!-- GitHub stats -->
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
+
