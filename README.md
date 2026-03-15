@@ -1,7 +1,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=500&lines=👋+Oi,+eu+sou+Will" />
 
 ## 💼 Sobre mim
-Sou desenvolvedor fullstack e especialista em **Big Data**, com experiência em análise de grandes volumes de dados e processamento distribuído. Além disso, tenho diversos cursos concluídos em desenvolvimento, ciência de dados e tecnologias em nuvem. 
+Sou estudante de Tecnologia da Informação pela FATEC e atualmente atuo como estagiário de TI, adquirindo experiência prática com suporte técnico, sistemas e infraestrutura.
+
+Durante minha formação venho desenvolvendo conhecimentos em programação, análise de dados e inteligência artificial por meio de disciplinas como Lógica de Programação (Python), Java – Orientação a Objetos, Java para Sistemas Web, Programação Front-End e Algoritmos Avançados.
+
+Também tenho formação em áreas voltadas a dados, com disciplinas como Bancos de Dados, Banco de Dados NoSQL, Gestão de Dados e Introdução ao Data Mining, além de conhecimentos em Big Data, Inteligência Artificial e Aprendizado de Máquina.
+
+Minha base analítica é fortalecida por disciplinas matemáticas como Estatística, Cálculo e Matemática Discreta, fundamentais para análise e modelagem de dados.
+
+Possuo experiência com processos de ETL, manipulação e organização de dados, além de banco de dados relacionais utilizando MySQL e SQL.
+
+Tenho conhecimentos em desenvolvimento Front-End e Back-End, utilizando tecnologias como HTML5, CSS e JavaScript, além de linguagens como Python e Java. Também possuo experiência com desenvolvimento de APIs, versionamento de código com GitHub e análise de dados.
+
+Tenho familiaridade com ferramentas de visualização de dados e criação de dashboards, utilizando Power BI e Grafana, aplicando conceitos de análise de dados para geração de insights e apoio à tomada de decisões.
+
+Busco continuar evoluindo profissionalmente na área de Tecnologia da Informação, ampliando meus conhecimentos em desenvolvimento, dados e soluções tecnológicas para contribuir com projetos inovadores e resolver problemas de forma eficiente.
 
 ## 💻 Linguagens & Tecnologias
 JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL | Linguagem R  
