@@ -37,7 +37,7 @@ Graduando em Big Data, com conhecimentos em análise e processamento de dados, p
 - Perceptron e Redes Neurais MLP
 - Estruturação de Dados para Redes Neurais
 - Aprendizado por Reforço (Reinforcement Learning - RL)
-- DFS aplicado em Inteligência Artificial
+- DFS Depth-First Search aplicado em Inteligência Artificial
 - Desenvolvimento Web Front-End (HTML, CSS e JavaScript)
 - Integração e Manipulação de APIs
 - Arduino e IoT Integrado a Banco de Dados
