@@ -1,24 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=500&lines=👋+Oi,+eu+sou+Will" />
 
 ## 💼 Sobre mim
-Sou estudante de Tecnologia da Informação pela FATEC e atualmente atuo como estagiário de TI, adquirindo experiência prática com suporte técnico, sistemas e infraestrutura.
-
-Durante minha formação venho desenvolvendo conhecimentos em programação, análise de dados e inteligência artificial por meio de disciplinas como Lógica de Programação (Python), Java – Orientação a Objetos, Java para Sistemas Web, Programação Front-End e Algoritmos Avançados.
-
-Também tenho formação em áreas voltadas a dados, com disciplinas como Bancos de Dados, Banco de Dados NoSQL, Gestão de Dados e Introdução ao Data Mining, além de conhecimentos em Big Data, Inteligência Artificial e Aprendizado de Máquina.
-
-Minha base analítica é fortalecida por disciplinas matemáticas como Estatística, Cálculo e Matemática Discreta, fundamentais para análise e modelagem de dados.
-
-Possuo experiência com processos de ETL, manipulação e organização de dados, além de banco de dados relacionais utilizando MySQL e SQL.
-
-Tenho conhecimentos em desenvolvimento Front-End e Back-End, utilizando tecnologias como HTML5, CSS e JavaScript, além de linguagens como Python e Java. Também possuo experiência com desenvolvimento de APIs, versionamento de código com GitHub e análise de dados.
-
-Tenho familiaridade com ferramentas de visualização de dados e criação de dashboards, utilizando Power BI e Grafana, aplicando conceitos de análise de dados para geração de insights e apoio à tomada de decisões.
-
-Busco continuar evoluindo profissionalmente na área de Tecnologia da Informação, ampliando meus conhecimentos em desenvolvimento, dados e soluções tecnológicas para contribuir com projetos inovadores e resolver problemas de forma eficiente.
+Graduando em Big Data, com conhecimentos em análise e processamento de dados, programação e banco de dados. Possuo experiência em desenvolvimento mobile e estudos em Python, SQL, aprendizado de máquina, ciência de dados e inteligência artificial.
 
 ## 💻 Linguagens & Tecnologias
-JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL | Linguagem R  
+ Big Data | Machine Learning | Inteligência Artificial | Python | SQL | Análise de Dados  
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,express,spring,django,fastapi,mysql,postgres,mongodb,firebase,aws,azure,gcp,tensorflow,sklearn,git,github,docker,linux,vscode,figma,flutter" />
 
@@ -36,12 +22,30 @@ JavaScript | Front End | Java | Python | MySQL | CSS | GitHub | Power BI | SQL |
 - **Pacote Office (Excel, PowerPoint, Word)** – Prepara Cursos Profissionalizantes (Ago/2009 – Jul/2011)  
 
 ## 🔥 Projetos & Skills
-- Desenvolvimento Fullstack com **React, Next.js, Node.js, Spring, Django, FastAPI**  
-- Bancos de dados **MySQL, PostgreSQL, MongoDB, Firebase**  
-- Cloud computing com **AWS, Azure, GCP**  
-- Machine Learning com **TensorFlow e Scikit-Learn**  
+- Desenvolvimento **Python, Java, JavaScript, C#, PHP**
+- Bancos de dados **MySQL, SQL, SQLlite, MongoDB, Firebase**
+- Cloud computing com **AWS, Azure**
 - Controle de versão e colaboração com **Git & GitHub**  
-- Containers e DevOps com **Docker, Linux**
+- Python para Análise de Dados e Machine Learning
+- ETL, Mineração e Processamento de Dados
+- Machine Learning e Inteligência Artificial
+- KNN (K-Nearest Neighbors)
+- K-Means Clustering
+- Regressão Linear
+- DWNN
+- K-Fold Cross Validation
+- Perceptron e Redes Neurais MLP
+- Estruturação de Dados para Redes Neurais
+- Aprendizado por Reforço (Reinforcement Learning - RL)
+- DFS aplicado em Inteligência Artificial
+- Desenvolvimento Web Front-End (HTML, CSS e JavaScript)
+- Integração e Manipulação de APIs
+- Arduino e IoT Integrado a Banco de Dados
+- Grafana para Monitoramento e Dashboards
+- RDF e Modelagem de Dados Semânticos
+- Desenvolvimento de Aplicações em Java
+- Criação de Agentes Inteligentes
+- Análise e Visualização de Dados
 
 
   
